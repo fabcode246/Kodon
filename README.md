@@ -1,2 +1,4 @@
 # Kodon
-an app where you can do terminal magic
+an app where you can code
+
+### Under Construction
